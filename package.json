@@ -1,0 +1,26 @@
+{
+  "name": "4.4-babel-confiig",
+  "version": "1.0.0",
+  "description": "babel config ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcin-Kurpiewski/4.4-Babel-confiig.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcin-Kurpiewski/4.4-Babel-confiig/issues"
+  },
+  "homepage": "https://github.com/Marcin-Kurpiewski/4.4-Babel-confiig#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^3.5.5"
+  }
+}
