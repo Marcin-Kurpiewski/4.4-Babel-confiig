@@ -1,3 +1,6 @@
-/**
- * Created by HP-M on 29.08.2017.
- */
+import React from 'react';
+
+const  TodoList = ({data, remove}) =>{
+
+    const taskList = data.map()
+}
