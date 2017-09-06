@@ -1,3 +1,13 @@
-/**
- * Created by HP-M on 29.08.2017.
- */
+import React from 'react';
+
+const Title = props => {
+    return (
+        <div className={"style.Title"}>
+            <h1>{props.title}</h1>
+
+        </div>
+    );
+};
+
+export default Title;
+
