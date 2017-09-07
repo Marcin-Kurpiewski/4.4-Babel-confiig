@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './containers/App.js';
 import style from './containers/App.css';
 import { AppContainer } from 'react-hot-loader';
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 ReactDOM.render(
